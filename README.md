@@ -76,3 +76,7 @@ For an Android application like this one, GitHub Actions can be configured to au
 ### Why This Matters
 Without GitHub Actions, a developer would need to manually build and test their app every time a change is made. This is time-consuming and prone to human error. By automating these steps, GitHub Actions ensures that the codebase remains stable and that issues are caught early, before they make it into the final product.
 
+### Links
+
+- **Youtube Video** https://youtu.be/iNHsOKAOTyk
+- **GIT Repository** https://github.com/ST10520118/Hack-or-Myth-app
